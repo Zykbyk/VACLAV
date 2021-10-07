@@ -1,6 +1,7 @@
 1. Pobierz i zainstaluj https://git-scm.com/downloads
 2. Pobierz i zainstaluj https://git-fork.com/	Przy rejestracji podaj swoje IMIĘ I NAZWISKO
-3. Zarejestruj się na https://github.com/	i podaj swój nick Liderowi
+3. Zarejestruj się na https://github.com/	Twój nick tutaj nie ma znaczenia	i podaj swój nick Liderowi
+4. Zaakceptuj zaproszenie na mailu
 
 Fork jest jedyną aplikacją jakiej używacie, reszta to potrzebne chmury i oprogramowania. Nie interesują Was.
 
