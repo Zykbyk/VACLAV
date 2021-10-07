@@ -1,0 +1,16 @@
+1. Pobierz i zainstaluj https://git-scm.com/downloads
+2. Pobierz i zainstaluj https://git-fork.com/	Przy rejestracji podaj swoje IMIĘ I NAZWISKO
+3. Zarejestruj się na https://github.com/	i podaj swój nick Liderowi
+
+Fork jest jedyną aplikacją jakiej używacie, reszta to potrzebne chmury i oprogramowania. Nie interesują Was.
+
+
+Setup w Forku:
+
+1. Lider poda Ci link do repozytorium w chmurze.
+2. W zakładce "File" wybierz "Clone..."
+3. Wypełnienie okna "Clone"
+	3.1 URL to link, który dostałeś/aś	
+	3.2 "Parent folder" to miejsce, w którym chcesz mieć FOLDER z zawieszeniem.		
+	3.3 W "Name" wpisz "Zawieszenie".
+	Właśnie utworzyłeś/aś folder zawieszenia, w nim będą się znajdować WSZYSTKIE pliki zawieszenia.
