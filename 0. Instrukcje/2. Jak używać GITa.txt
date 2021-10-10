@@ -15,3 +15,5 @@ JAK DODAĆ DO MASTERA
 1. Wejdź na mastera (podwójne kliknięcie na "master")
 2. kliknij prawym przyciskiem myszy na swojego NAJNOWSZEGO COMMITA
 3. Merge into master
+
+Pozdrawiam, Jacek Jasiński
