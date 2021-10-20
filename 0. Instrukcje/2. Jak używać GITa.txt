@@ -1,3 +1,8 @@
+Przed pracą oraz w trakcie pracy jak najczęściej:
+1. klikaj FETCH, co odświeży Ci stan chmury (pokaże wszystkie nowe commity)
+2. jeśli jest coś nowego na MASTERZE, to zrób PULL ORIGIN->MASTER
+3. wszystkie MERGE rób TYLKO mając NAJNOWSZĄ wersję MASTERA
+
 1. Każdy ma folder ze swoim obszarem i wprowadza zmiany TYLKO W NIM (zmianą jest też dodanie/usunięcie pliku)
 2. Wprowadzanie zmian robi się na pałę, tworzysz plik, dodajesz go, edytujesz. Cokolwiek.
 3. Po wprowadzeniu zmian w Waszym folderze, w interfejsie Forka pojawią się "Local Changes".
