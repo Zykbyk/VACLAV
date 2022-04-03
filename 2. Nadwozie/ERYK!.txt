@@ -1,0 +1,3 @@
+Tutaj pozakładaj foldery dla swoich ludzi
+Zgodnie z numerami obszarów (dla przykładu popatrz na zawieszenie)
+Pamiętaj tylko, że jeżeli folder jest pusty to nie zostanie zapisany w chmurze, więc musisz do niego wrzucić COKOLWIEK (polecam plik tekstowy z nazwą (USUŃ MNIE)
