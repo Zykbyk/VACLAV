@@ -1,4 +1,0 @@
-Pewnie brakuje wam przekroju rury własnej którą stworzyłem, aby pobierała ona ten przekrój należy wrzucić plik Rury al2.SLDLFP do:
-C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\data\weldment profiles\Własne 
-
-Może da się to inaczej rozwiązać, narzie taka wersja
